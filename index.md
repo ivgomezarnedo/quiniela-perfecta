@@ -7,7 +7,9 @@
 
 # Quiniela Perfecta
 
-- **Android Version**: [Quiniela Perfecta in Google Play](https://play.google.com/store/apps/datasafety?id=com.produccionesgs.quinielaperfecta)
+
+Follow us on [Twitter](https://twitter.com/quinielaperfect)
+- **Android Version**: [Quiniela Perfecta in Google Play](https://play.google.com/store/apps/details?id=com.produccionesgs.quinielaperfecta)
 - **IOS Version**: coming soon...
 
 
@@ -15,7 +17,7 @@
 
 [Más información](https://medium.com/@ivangomezarnedo/c%C3%B3mo-utilizar-la-esperanza-matem%C3%A1tica-en-una-loter%C3%ADa-8f1fccce8461)
 
-![App Logo](images/logo_splash.png)
+![App Logo](images/icono.png)
 
 
 
